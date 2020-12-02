@@ -5,7 +5,7 @@ Nous allons voir ici comment découper un code Arduino (ou ESP) en plusieurs fic
 
 # Explications
 Suite de la création de notre station météo, ces deux scripts vont montrer comment découper le code, en créant une bibliothéque (fichier cpp et h), par capteur. Il sera ainsi facile d'intégrer ou pas les capteurs que l'on souhaite utiliser.
-Deux exemples sont donnés ici, un pour expliquer comment découper du coude dans l'IDE Arduino, un second qui correspond au découpage du code de notre station météo.
+Deux exemples sont donnés ici, un pour expliquer comment découper du code dans l'IDE Arduino (Test_code), un second qui correspond au découpage du code de notre station météo (Projet_station_meteo_multi).
 
 Plus d'information dans la vidéo YouTube.
 
